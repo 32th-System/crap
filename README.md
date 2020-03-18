@@ -38,3 +38,6 @@ Gerrie333
 Have fun with the patch and merry christmas !
 ```
 \- Gastari
+
+## random_sfx
+Every time a sound is attempted to be played it's random which sound is played
