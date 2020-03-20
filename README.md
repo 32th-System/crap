@@ -1,7 +1,7 @@
 # 32th's personal patch repository
 
 ## score_uncap
-Moves the score cap to 2^31-2
+Moves the score cap to (2^31-2) \* 10
 
 ## Goast
 Stacked on top of lang_en. Makes the character select menu in th17 say Goast
