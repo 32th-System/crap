@@ -1,7 +1,7 @@
 # 32th's personal patch repository
 
 ## score_uncap
-Moves the score cap to 2^31-2
+Moves the score cap to (2^31-2) \* 10
 
 ## Goast
 Stacked on top of lang_en. Makes the character select menu in th17 say Goast
@@ -38,3 +38,6 @@ Gerrie333
 Have fun with the patch and merry christmas !
 ```
 \- Gastari
+
+## random_sfx
+Every time a sound is attempted to be played it's random which sound is played
