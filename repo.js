@@ -4,6 +4,7 @@
 	"patches": {
 		"Goast": "lang_en but Goast is back",
 		"LoLChristmas": "Touhou 15 Christmas version",
+		"WBaDDC": "Implements the DDC scoring system in WBaWC",
 		"esc_r": "Brings back ESC + R in th17",
 		"random_sfx": "(th17)Randomizes the sound played every time a sound is attempted to be played",
 		"score_uncap": "Moves the score cap to (2^31-2)*10"
