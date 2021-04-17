@@ -141,3 +141,5 @@ Allez acheter les jeux Touhou sur Steam, vous supporterez une personne exception
 
 Amusez-vous bien !!
 ```
+## th128_gold_medal_count
+Counts the amount of gold medals you obtain throughout a GFW run. Made for TWC
