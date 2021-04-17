@@ -12,7 +12,7 @@
 			"code": "e8[codecave:gold_medal_count]"
 		},
 		"gm_show": {
-			"addr": "Rx26ed0",
+			"addr": "Rx22d88",
 			"code": "e8[codecave:gold_medal_show]5bc3"
 		},
 		"gm_reset": {
