@@ -5,6 +5,7 @@
 		"Goast": "lang_en but Goast is back",
 		"LoLChristmas": "Touhou 15 Christmas version",
 		"MoFrance": "Mountain of France",
+		"OkinaFestival": "Okina's Festival by InceRabbit. A mod for th16's stage 6 and extra stage",
 		"WBaDDC": "Implements the DDC scoring system in WBaWC",
 		"dmg_debug": "(th17) displays information about the damage you're dealing",
 		"esc_r": "Brings back ESC + R in th17",

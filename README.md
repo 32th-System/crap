@@ -143,3 +143,6 @@ Amusez-vous bien !!
 ```
 ## th128_gold_medal_count
 Counts the amount of gold medals you obtain throughout a GFW run. Made for TWC
+
+## OkinaFestival
+Okina's Festival: a mod for th16's stage 6 and extra stage. Made by InceRabbit
