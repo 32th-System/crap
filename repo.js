@@ -9,7 +9,6 @@
 		"WBaDDC": "Implements the DDC scoring system in WBaWC",
 		"dmg_debug": "(th17) displays information about the damage you're dealing",
 		"esc_r": "Brings back ESC + R in th17",
-		"random_sfx": "(th17)Randomizes the sound played every time a sound is attempted to be played",
 		"score_uncap": "Moves the score cap to (2^31-2)*10",
 		"speen": "th18 but everything rotates",
 		"th128_gold_medal_count": "(GFW) Show a counter of how many gold medals you obtained",
