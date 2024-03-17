@@ -12,7 +12,8 @@
 		"score_uncap": "Moves the score cap to (2^31-2)*10",
 		"speen": "th18 but everything rotates",
 		"th128_gold_medal_count": "(GFW) Show a counter of how many gold medals you obtained",
-		"th17_motionsickness_go_spin": "Rotates the background according to how you move to make you throw up"
+		"th17_motionsickness_go_spin": "Rotates the background according to how you move to make you throw up",
+		"unfocus_window": "(TH06, TH07) Allow unfocusing the window without pausing the game"
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/32th-System/crap/master/"
